@@ -1,4 +1,5 @@
 import React from "react";
+import opg from "./opg.js";
 
 export default function opgs() {
   return (

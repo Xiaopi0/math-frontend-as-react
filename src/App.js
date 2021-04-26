@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import opgs from "./opgs.js";
 
 export default function App() {
   return (
